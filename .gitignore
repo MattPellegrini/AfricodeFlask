@@ -2,3 +2,15 @@ bin/
 __pycache__/
 lib/
 pyvenv.cfg
+env/Scripts/activate
+env/Scripts/activate.bat
+env/Scripts/Activate.ps1
+env/Scripts/deactivate.bat
+env/Scripts/easy_install-3.8.exe
+env/Scripts/easy_install.exe
+env/Scripts/flask.exe
+env/Scripts/pip.exe
+env/Scripts/pip3.8.exe
+env/Scripts/pip3.exe
+env/Scripts/python.exe
+env/Scripts/pythonw.exe
