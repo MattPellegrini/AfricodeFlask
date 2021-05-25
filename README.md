@@ -1,6 +1,6 @@
 # First time setup
 Create the python virtual environment by running
-* `python3 -m venv .` in the top level directory of this project.
+* `python3 -m venv .` in the top level directory of this project (inside AfticodeFlask, if you just cloned the repo).
 * Activate the virtual environment `source bin/activate`
 * Install the required python libraries `pip install -r requirements.txt`
 * Continue from step 2 in the Running instructions.
